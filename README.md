@@ -1,0 +1,2 @@
+# smartgitpractice
+smart git training
